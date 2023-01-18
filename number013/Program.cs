@@ -27,3 +27,4 @@ else
     Console.Write("третья цифра полученного числа -> ");
     Console.WriteLine(FindDigit(number));
 }
+
