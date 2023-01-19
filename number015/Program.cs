@@ -16,7 +16,9 @@ bool Day(int arg)
         result = true;
     else
         result = false;
-    return result;
+        return result;
 }
 Console.WriteLine($"выходной? -> {Day(number)}");
 }
+
+
